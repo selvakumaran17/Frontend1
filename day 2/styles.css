@@ -1,0 +1,26 @@
+blockquote{
+    color: white;
+    background-color: black;
+    
+}
+
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    border-style: dotted;
+  }
+
+  th, td { 
+    background-color: aquamarine;
+  }
+
+  section{
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid;
+  }
+
+  .two{
+    padding: 15px;
+    background-color: yellow;
+    text-align: center;
+  }
